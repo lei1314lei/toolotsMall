@@ -1,6 +1,8 @@
 [submodule "ShoppingMallBackend"]
 	path = ShoppingMallBackend
 	url = git@github.com:lei1314lei/ShoppingMallBackend.git
+	branch = staging
 [submodule "ShoppingMallFrontend"]
 	path = ShoppingMallFrontend
 	url = git@github.com:lei1314lei/ShoppingMallFrontend.git
+	branch = staging
